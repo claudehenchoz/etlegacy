@@ -5,7 +5,7 @@ This will provision an ET: Legacy server with a default RCON password of 'etlega
 
 ## Run
 
-    docker run -p 27960:27960/udp claudehenchoz/etlegacy
+    docker run -p 27960:27960/udp schreckgestalt/etlegacy
 
 ## Stop (All)
 
